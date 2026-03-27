@@ -23,7 +23,7 @@ A modern web application that combines AI chat capabilities with PDF-based Retri
 ### 1. Clone and Setup Backend
 
 ```bash
-git clone https://github.com/Thanmaireddy03/Project--InfoMate.git
+git clone https://github.com/Nithya1412/InfoMate-Retrieval-Augmented-Knowledge-Assistant.git
 cd llama-go
 go mod tidy
 ```
